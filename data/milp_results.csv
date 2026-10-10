@@ -1,0 +1,5 @@
+Instance,Customers,Sites,Status,Cost (MILP),Gap (%),Runtime (s),Open sites,Feasible
+cflp_n100_m25,100,25,Optimal,14145513.46,,3.27,8,True
+cflp_n200_m40,200,40,Optimal,13844672.0,,39.15,10,True
+cflp_n20_m10,20,10,Optimal,10831298.05,,0.03,5,True
+cflp_n50_m15,50,15,Optimal,13876028.52,,0.25,6,True
